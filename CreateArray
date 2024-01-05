@@ -1,0 +1,5 @@
+func splitSpaces(_ text: String)  {
+    print(text.split(separator: " "))
+}
+
+splitSpaces("Hi, this is the Hackathon!")
